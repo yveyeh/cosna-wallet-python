@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "cosna_wallet"
+version = "1.0.1"
+description = "A controller to access endpoints in the cosna wallet integration API."
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [{name = "ISDG, COSNA Afrique", email = "admin@cosna-afrique.com"}]
